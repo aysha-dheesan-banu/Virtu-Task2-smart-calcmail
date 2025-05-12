@@ -1,0 +1,7 @@
+streamlit==1.20.0
+email
+sqlite3
+logging
+random
+streamlit-option-menu==0.3.0
+SpeechRecognition==3.8.1
